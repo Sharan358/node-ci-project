@@ -108,6 +108,7 @@ Whenever code is pushed to GitHub:
 
 ## Author
 
-**Sharan Sai**
-
-Mini Project - Node.js Continuous Integration using Jenkins and GitHub
+**Sharan Sai**  
+**Dani Sekath**
+**Ekeswar**
+  Mini Project - Node.js Continuous Integration using Jenkins and GitHub
